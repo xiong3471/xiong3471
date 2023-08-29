@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xiong3471
 - 👀 I’m interested in FPGAs and embedded development.
-- 🌱 I’m currently learning Verilog/VHDL, FPGA development, and embedded programming.
+- 🌱 I’m experienced in Verilog/VHDL, FPGA development, and embedded programming.
 - 💞️ I’m looking to collaborate on anything involving FPGAs and ebmedded development.
 - 📫 How to reach me ...
 
